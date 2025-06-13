@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hetsiroya" alt="hetsiroya" /></a> </p>
 
+- 🔭 I’m currently working on [Dating App (Clone hukup.net)](https://github.com/HetSiroya/Dating-App)
+
+- 💬 Ask me about **Nodejs**
+
 - 📫 How to reach me **hetsiroya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
