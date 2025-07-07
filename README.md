@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hetsiroya" alt="hetsiroya" /></a> </p>
 
-- 🔭 I’m currently working on [Dating App (Clone hukup.net)](https://github.com/HetSiroya/Dating-App)
+- 🔭 I’m currently working on [Event Management (TYpeScript)](https://github.com/HetSiroya/Event-Mangement-TypeScript)
 
 - 💬 Ask me about **Nodejs**
 
